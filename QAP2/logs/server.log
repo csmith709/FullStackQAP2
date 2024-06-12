@@ -1,0 +1,376 @@
+Server started on port 3000
+Route requested: /logger
+Error: 404 Not Found for route: /logger
+Route requested: /products
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/routes/products.html
+Route requested: /products
+Error: 404 Not Found for route: /products
+Route requested: /about
+Error: 404 Not Found for route: /about
+Server started on port 3000
+Route requested: /about
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/about.html
+Server started on port 3000
+Route requested: /about
+HTTP status code: 200
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/about.html
+Route requested: /products
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/products.html
+HTTP status code: 200
+Route requested: /index
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/index.html
+HTTP status code: 200
+Route requested: /subscribe
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/subscribe.html
+HTTP status code: 200
+Route requested: /index
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/index.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/index.html
+HTTP status code: 200
+Route requested: /index
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /contact
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/contact.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /products
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/products.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /subscribe
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/subscribe.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /about
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/about.html
+HTTP status code: 200
+Route requested: /
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/index.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /about
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/about.html
+HTTP status code: 200
+Route requested: /contact
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/contact.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /products
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/products.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /subscribe
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/subscribe.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/index.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /about
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/about.html
+HTTP status code: 200
+Route requested: /about
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/about.html
+HTTP status code: 200
+Route requested: /about
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/about.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /
+HTTP status code: 200
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/index.html
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /about
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/about.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /contact
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/contact.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /products
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/products.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /subscribe
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/subscribe.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /subscribe
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/subscribe.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /subscribe
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/subscribe.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /contact
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/contact.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /about
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/about.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /about
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/about.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /products
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/products.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /subscribe
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/subscribe.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /products
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/products.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /contact
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/contact.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /about
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/about.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/index.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /contact
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/contact.html
+HTTP status code: 200
+Route requested: /styles.css
+HTTP status code: 404
+Error: 404 Not Found for route: /styles.css
+Route requested: /subscribe
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/subscribe.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /products
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/products.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /contact
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/contact.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /about
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/about.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /about
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/about.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/index.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /subscribe
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/subscribe.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/index.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /about
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/about.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /contact
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/contact.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /products
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/products.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /subscribe
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/subscribe.html
+HTTP status code: 200
+Route requested: /styles.css
+HTTP status code: 404
+Error: 404 Not Found for route: /styles.css
+Route requested: /subscribe
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/subscribe.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /contact
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/contact.html
+HTTP status code: 200
+Route requested: /products
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/products.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /contact
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/contact.html
+HTTP status code: 200
+Route requested: /products
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/products.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /contact
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/contact.html
+HTTP status code: 200
+Route requested: /contact
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/contact.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /products
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/products.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /contact
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/contact.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /contact
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/contact.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /products
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/products.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /contact
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/contact.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /about
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/about.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /contact
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/contact.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /about
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/about.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /contact
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/contact.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /about
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/about.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
+Route requested: /contact
+Served: /Users/keyinstudent_1/Desktop/FullStack/3.0/QAP2/views/contact.html
+HTTP status code: 200
+Route requested: /styles.css
+Error: 404 Not Found for route: /styles.css
+HTTP status code: 404
